@@ -1,0 +1,5 @@
+org/apache/flume/plugins/SinglePartition.class
+org/apache/flume/plugins/KafkaSource.class
+org/apache/flume/plugins/KafkaSource$ConsumerWorker.class
+org/apache/flume/plugins/KafkaSink.class
+org/apache/flume/plugins/KafkaFlumeConstans.class
