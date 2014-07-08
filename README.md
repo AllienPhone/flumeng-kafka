@@ -1,9 +1,10 @@
 flumeng-kafka-plugin
 ====================
 
-Technical Specifications
+close log4j
 
+Technical Specifications
 
 Flume 1.4
 
-Kafka 0.8.0 Beta
+Kafka 2.9.2 0.8.1.1
